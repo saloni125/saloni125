@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Data Structures and Algorithms and Data Sciencce
+- 🔭 I can code (Data Structures and Algorithms)
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on Angular Projects
 - 💬 Looking for Software Development Roles (Fresher)
