@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I can code (Data Structures and Algorithms)
 - 💬 Looking for Software Development Roles (Fresher)
-- 📫 How to reach me saloni555acc@gmail.com
+- 📫 How to reach me saloni52b@gmail.com
 
 <!--
 **saloni125/saloni125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
