@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I can code (Data Structures and Algorithms)
-- 💬 Looking for Software Development Roles (Fresher)
+- 🔭 Developer
+- 💬 While(!(succeed==try()));
+- ⚡ Java -With great powers comes great confusion
 - 📫 How to reach me saloni52b@gmail.com
 
 <!--
