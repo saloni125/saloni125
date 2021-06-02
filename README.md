@@ -2,7 +2,7 @@
 - 🔭 Developer
 - 💬 While(!(succeed==try()));
 - ⚡ Java -With great powers comes great confusion
-- 📫 How to reach me saloni52b@gmail.com
+
 
 <!--
 **saloni125/saloni125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
