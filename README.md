@@ -1,5 +1,5 @@
 
-- 🔭 Developer
+- 🔭
 - 💬 While(!(succeed==try()));
 - ⚡ Java -With great powers comes great confusion
 
